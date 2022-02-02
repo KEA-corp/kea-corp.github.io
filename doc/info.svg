@@ -97,7 +97,7 @@ table td {
             <td>
               <h3> • éléments en cours</h3>
               <p> I - input en CPP </p>
-              <p> ? - liste </p>
+              <p> * - liste </p>
               <p> * - type </p>
             </td>
           </tr>
