@@ -90,15 +90,15 @@ table td {
             </td>
             <td>
               <h3> • éléments nouveaux</h3>
-              <p> X - condition </p>
-              <p> Z - break recursif </p>
-              <p> * - version python </p>
+              <p> condition </p>
+              <p> break recursif </p>
+              <p> version python </p>
             </td>
             <td>
               <h3> • éléments en cours</h3>
-              <p> I - input en CPP </p>
-              <p> * - liste </p>
-              <p> * - type </p>
+              <p> input en CPP </p>
+              <p> liste </p>
+              <p> type </p>
             </td>
           </tr>
         </table>
