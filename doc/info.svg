@@ -86,19 +86,19 @@ table td {
               <h3> • état</h3>
               <p>🟡 [dev]</p>
               <p>🟢 [full]</p>
-              <p>🔴 [alpha]</p>
+              <p>🟢 [full]</p>
             </td>
             <td>
               <h3> • éléments nouveaux</h3>
               <p> condition </p>
               <p> break recursif </p>
-              <p> version python </p>
+              <p> portage </p>
             </td>
             <td>
               <h3> • éléments en cours</h3>
               <p> input en CPP </p>
               <p> liste </p>
-              <p> type </p>
+              <p> instruction en POO </p>
             </td>
           </tr>
         </table>
