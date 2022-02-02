@@ -78,22 +78,27 @@ table td {
             </td>
             <td>
               <h2>kea-project</h2>
-              <p><a href = "https://github.com/KEA-corp/kea-project"> [<b>PHP</b>] - classic </a></p><p><a href = "https://github.com/KEA-corp/TURBO-kea"> [<b>CPP</b>] - turbo </a></p>
+              <p><a href = "https://github.com/KEA-corp/KEA-cpp"> [<b>CPP</b>] - turbo </a></p>
+              <p><a href = "https://github.com/KEA-corp/KEA-php"> [<b>PHP</b>] - classic </a></p>
+              <p><a href = "https://github.com/KEA-corp/KEA-py">  [<b>PY</b>]  - python </a></p>
             </td>
             <td>
               <h3> • état</h3>
-              <p>🟢 [full]</p>
               <p>🟡 [dev]</p>
+              <p>🟢 [full]</p>
+              <p>🔴 [alpha]</p>
             </td>
             <td>
               <h3> • éléments nouveaux</h3>
-              <p> Z - break recursif </p>
               <p> X - condition </p>
+              <p> Z - break recursif </p>
+              <p> * - version python </p>
             </td>
             <td>
               <h3> • éléments en cours</h3>
-              <p> ? - liste </p>
               <p> I - input en CPP </p>
+              <p> ? - liste </p>
+              <p> * - type </p>
             </td>
           </tr>
         </table>
