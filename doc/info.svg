@@ -84,20 +84,20 @@ table td {
             </td>
             <td>
               <h3> • état</h3>
+              <p>🔵 [alpha]</p>
+              <p>🟢 [full]</p>
               <p>🟡 [dev]</p>
-              <p>🟢 [full]</p>
-              <p>🟢 [full]</p>
             </td>
             <td>
               <h3> • éléments nouveaux</h3>
               <p> condition </p>
-              <p> break recursif </p>
+              <p> F avec args </p>
               <p> portage </p>
             </td>
             <td>
               <h3> • éléments en cours</h3>
-              <p> input en CPP </p>
-              <p> liste </p>
+              <p> input </p>
+              <p> return </p>
               <p> instruction en POO </p>
             </td>
           </tr>
