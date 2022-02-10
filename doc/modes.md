@@ -20,7 +20,7 @@
 | Z   | break (récusif)            | nom de bcl a break |               |             |      |
 
 Les fonctionalités du kea ne sont pas garanties dans toutes les versions.
-[→ info sur l'implémentation](/doc/implemented.md)
+[→ info sur l'implémentation](https://kea-corp.github.io/doc/doc/implemented)
 
 # Comparateurs
 

@@ -18,8 +18,8 @@ php inter.php <nom du fichier kea>
 
 - **Erreur de comparaison**\
 Le comparateur fournit est invalide.\
-[→ tout les comparateurs](/doc/modes.md)
+[→ tout les comparateurs](https://kea-corp.github.io/doc/doc/modes.md)
 
 - **Erreur de mode**\
 Le mode fournit est invalide.\
-[→ tout les modes](/doc/modes.md)
+[→ tout les modes](https://kea-corp.github.io/doc/doc/modes.md)
