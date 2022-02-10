@@ -32,3 +32,15 @@ S Hello
 php inter.php <nom du fichier kea>
 ```
 [→ erreur d'execution](/doc/errors.md)
+
+# 🍒 • Tout les interpréteurs
+
+| **langage**    | python                                          | php                                                | c++                                             |
+|----------------|-------------------------------------------------|----------------------------------------------------|-------------------------------------------------|
+| **lien**       | [→ github](https://github.com/KEA-corp/KEA-php) | [→ github](https://github.com/KEA-corp/KEA-python) | [→ github](https://github.com/KEA-corp/KEA-cpp) |
+| **avancement** | 🟡 [dev]                                        | 🟢 [full]                                         | 🔵 [alpha]                                     |
+| **avantage**   |  utilisable en module python                    | version principale                                 |  compilable                                     |
+| **défaut**     |  3x plus lent que php/C++                       | ...                                                |  manque de fonctionnalités                      |
+
+Les fonctionalités du kea ne sont pas garanties dans toutes les versions.
+[→ info sur l'implémentation](/doc/implemented.md)
