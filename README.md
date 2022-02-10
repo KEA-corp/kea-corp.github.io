@@ -15,7 +15,7 @@ Non, il est en PHP le C est 'trop' bas niveau, PHP est plus facile à utiliser s
 - **Pour les performances sa donne quoi?**\
 ~~feur~~ Les calculs sont faits en PHP, c'est donc relativement rapide, mais il reste en langage interprété, par un langage interprété, il faut pas s'attendre à des miracles...
 
-[→ discord](http://pf4.ddns.net/discord)
+[↗ discord](http://pf4.ddns.net/discord)
 
 # 🥤 • Premier programme
 
