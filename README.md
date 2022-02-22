@@ -37,7 +37,7 @@ php inter.php <nom du fichier kea>
 
 | **langage**    | python                                          | php                                             | c++                                             |
 |----------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
-| **lien**       | [↗ github](https://github.com/KEA-corp/KEA-php) | [↗ github](https://github.com/KEA-corp/KEA-py) | [↗ github](https://github.com/KEA-corp/KEA-cpp) |
+| **lien**       | [↗ github](https://github.com/KEA-corp/KEA-py)  | [↗ github](https://github.com/KEA-corp/KEA-php) | [↗ github](https://github.com/KEA-corp/KEA-cpp) |
 | **avancement** | 🟡 [dev]                                        | 🟢 [full]                                      | 🔵 [alpha]                                     |
 | **avantage**   |  utilisable en module python                    | version principale                              |  compilable                                     |
 | **défaut**     |  3x plus lent que php/C++                       | ...                                             |  manque de fonctionnalités                      |
