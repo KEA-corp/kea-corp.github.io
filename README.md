@@ -31,6 +31,7 @@ S Hello
 ```shell
 php inter.php <nom du fichier kea>
 ```
+
 [→ erreur d'execution](https://kea-corp.github.io/doc/doc/errors)
 
 # 🍒 • Tout les interpréteurs
