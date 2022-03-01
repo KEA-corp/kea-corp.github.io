@@ -26,7 +26,7 @@ Les fonctionalités du kea ne sont pas garanties dans toutes les versions.
 
 | comparateur | description          |
 |-------------|----------------------|
-| = ou (==)   | égal à               |
+| = (ou ==)   | égal à               |
 | !=          | différent de         |
 | <           | inférieur à          |
 | <=          | inférieur ou égal à  |
@@ -43,4 +43,3 @@ Les fonctionalités du kea ne sont pas garanties dans toutes les versions.
 | /          | division            |
 | %          | reste de la division|
 | ^  (ou **) | puissance           |
-| //         | division entière    |
