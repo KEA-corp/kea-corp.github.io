@@ -17,7 +17,7 @@
 | T   | téléphoner a une fonction  | nom de la fonction |               |             |      |
 | V   | assignation de variable    | var                | valleur       |             |      |
 | X   | execution si condition     | nom de boucle      | var (B)       |             |      |
-| Z   | break (récusif)            | nom de bcl a break |               |             |      |
+| Z   | break (récusif)            | nombre bcl a break |               |             |      |
 
 Les fonctionalités du kea ne sont pas garanties dans toutes les versions.
 [→ info sur l'implémentation](https://kea-corp.github.io/doc/doc/implemented)
