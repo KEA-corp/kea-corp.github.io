@@ -24,7 +24,7 @@ En KEA, on va utiliser le mode **S** pour afficher du texte.
 ```kea
 S Hello
 ```
-[→ tout les modes](https://kea-corp.github.io/doc/doc/modes)
+[→ tout les modes](https://kea-corp.github.io/doc/modes.html)
 
 # 👾 • lancer un programme kea
 
@@ -32,7 +32,7 @@ S Hello
 php inter.php <nom du fichier kea>
 ```
 
-[→ erreur d'execution](https://kea-corp.github.io/doc/doc/errors)
+[→ erreur d'execution](https://kea-corp.github.io/doc/errors.html)
 
 # 🍒 • Tout les interpréteurs
 
@@ -44,4 +44,4 @@ php inter.php <nom du fichier kea>
 | **défaut**     |  3x plus lent que php/C++                       | ...                                             |  manque de fonctionnalités                      |
 
 Les fonctionalités du kea ne sont pas garanties dans toutes les versions.
-[→ info sur l'implémentation](https://kea-corp.github.io/doc/doc/implemented)
+[→ info sur l'implémentation](https://kea-corp.github.io/doc/implemented.html)
