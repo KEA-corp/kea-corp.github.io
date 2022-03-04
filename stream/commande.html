@@ -1,0 +1,79 @@
+<head>
+    <meta charset="utf-8">
+    <title>🦅 • KEA - doc</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+    <header>
+            <nav>
+                <ul class="menu">
+                    <li><a href="https://kea-corp.github.io">KEA</a></li>
+                    <li><a href="https://kea-corp.github.io/stream">KEA-stream</a></li>
+                </ul>
+            </nav>
+            <a href="https://github.com/KEA-corp">
+                <img src="../img/github.png" alt="github" class="head_logo">
+            </a>
+    </header>
+
+    <div class="div_center">
+        <br><br>
+
+        <h1> 🎅 • lancement</h1>
+        <div class="code">
+            python3 main.py
+        </div>
+        <p>
+            la commande peut prendre les agruments suviants:
+        </p>
+        <div class="code">
+            -f [fichier] ~ le fichier d'entré<br>
+            -o [fichier] ~ le fichier de sortie<br>
+            -d           ~ activer le debug<br>
+        </div>
+
+        <h1> 🧶 • All-in-one</h1>
+        <p>
+            pour parser le ks plus l'executer en une seule commande vous pouvez créé votre propre one-commande:
+        </p>
+        <div class="code">
+            python [chemin du parser.py] -f [fichier a parser] -o [fichier de sortie];
+            php [chemin de l'interpreteur.php] [fichier de sortie]
+        </div>
+        <p>
+            par exemple avec l'arborescence suivante:
+        </p>
+        
+        <div class="code">
+            <b>KEA ></b> tree /f<br><br>
+            KEA<br>
+            |<br>
+            ├───KEA-php<br>
+            │       inter.php<br>
+            │<br>
+            │<br>
+            ├───KS-dep<br>
+            │   │<br>
+            │   ├───DEP<br>
+            │   │       bool.kea<br>
+            │   │       math.kea<br>
+            │   │       uf.kea<br>
+            │   │<br>
+            │   └───work<br>
+            │           main.ks<br>
+            │           output.kea<br>
+            │<br>
+            └───parser<br>
+                │   main.py<br>
+                │<br>
+                └───mod<br>
+                        decoupeur.py<br>
+                        parse.py<br><br><br>
+
+            <b>KEA ></b>  python ..\parser\main.py -f .\work\main.ks -o .\work\output.kea;
+                    php ..\KEA-php\inter.php .\work\output.kea
+        </div>
+        
+    </div>
+</body>
