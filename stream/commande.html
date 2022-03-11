@@ -45,35 +45,36 @@
             par exemple avec l'arborescence suivante:
         </p>
         
-        <div class="code">
-            <b>~/KEA ></b> tree /f<br><br>
-            KEA<br>
-            |<br>
-            ├───KEA-php<br>
-            │       inter.php<br>
-            │<br>
-            │<br>
-            ├───KS-dep<br>
-            │   │<br>
-            │   ├───DEP<br>
-            │   │       bool.kea<br>
-            │   │       math.kea<br>
-            │   │       uf.kea<br>
-            │   │<br>
-            │   └───work<br>
-            │           main.ks<br>
-            │           output.kea<br>
-            │<br>
-            └───parser<br>
-                │   main.py<br>
-                │<br>
-                └───mod<br>
-                        decoupeur.py<br>
-                        parse.py<br><br><br>
+        <div class="code"><pre>
+<b>~/KEA ></b> tree /f
 
-            <b>~/KEA/KS-dep ></b>  python ..\parser\main.py -f .\work\main.ks -o .\work\output.kea;
-                    php ..\KEA-php\inter.php .\work\output.kea
-        </div>
-        
+KEA
+|
+├───KEA-php
+│       inter.php
+│
+│
+├───KS-dep
+│   │
+│   ├───DEP
+│   │       bool.kea
+│   │       math.kea
+│   │       uf.kea
+│   │
+│   └───work
+│           main.ks
+│           output.kea
+│
+└───parser
+    │   main.py
+    │
+    └───mod
+            decoupeur.py
+            parse.py
+
+<b>~/KEA/KS-dep ></b>  python ..\parser\main.py -f .\work\main.ks -o
+                .\work\output.kea;php ..\KEA-php\inter.php
+                .\work\output.kea
+</pre></div>
     </div>
 </body>

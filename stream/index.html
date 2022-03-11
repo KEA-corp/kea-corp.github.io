@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <head>
     <meta charset="utf-8">
     <title>🦅 • KEA - doc</title>
@@ -73,25 +74,26 @@
             Exemples divers: 
         </p>
         <div class="code">
-            # multistream
-            1, 0 >> and > print
+<pre>
+# multistream
+1, 0 >> and > print
 
-            # boucle
-            10 > LOOP
-                "coucou" > print
-                END
+# boucle
+10 > LOOP
+"coucou" > print
+END
 
-            # condition
-            2 - 1 == 1 > IF
-                "ok" > print
-                END
-                
-            # fonction
-            FUNC sum arg1&arg2
-                arg1 + arg2 > RETURN
-            
-            # appel de fonction
-            1, 4 >> sum > print
+# condition
+2 - 1 == 1 > IF
+    "ok" > print
+    END
+
+# fonction
+FUNC sum arg1&arg2
+    arg1 + arg2 > RETURN
+
+# appel de fonction
+1, 4 >> sum > print</pre>
         </div><br>
         <a href = "https://kea-corp.github.io/stream/commande.html">
             → lancement du programme
