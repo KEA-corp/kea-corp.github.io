@@ -67,8 +67,8 @@ li {
 }
 
 .menu {
-    display: flex;              /* Transformation en flexbox */
-    padding:0;                  /* Suppression des marges internes */
+    display: flex;               /* Transformation en flexbox */
+    padding: 0;                  /* Suppression des marges internes */
     justify-content: center;     /* Alignements des liens dans le menu */
 }
 
@@ -77,13 +77,13 @@ li {
 }
 
 .menu a {
-    display: block;                /* Transformation en block */
+    display: block;               /* Transformation en block */
     min-width: 100px;             /* Largeur minimale des liens */   
     
     margin: 0.5rem;               /* Marges externes (1 valeurs = 4 directions) */
     padding: 0.4rem 0;            /* Marges internes (2 valeurs = haut/bas et gauche/droite)*/
-    color: #FFFFFF;                  /* Couleur du texte */
-    transition: all 0.2s;          /* Ajout des effets de transition */
+    color: #FFFFFF;             /* Couleur du texte */
+    transition: all 0.2s;         /* Ajout des effets de transition */
 }
 
 .menu a:hover {
